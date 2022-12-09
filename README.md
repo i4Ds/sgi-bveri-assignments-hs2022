@@ -74,7 +74,7 @@ You can pull the image with an API token that allows for reading the container r
 $ docker login cr.gitlab.fhnw.ch -u <username> -p GX6WX2p14yGr94td--PT
 
 # now pull the image
-$ docker pull cr.gitlab.fhnw.ch/ml/courses/bveri/bveri-hs2022-exercises:v20221108
+$ docker pull cr.gitlab.fhnw.ch/ml/courses/bveri/bveri-hs2022-exercises:v20221208
 ```
 
 #### 3. Fork this repository
