@@ -16,6 +16,25 @@ Click on the following badge to open the notebook in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/sgi-beveri-assignments-hs2022/blob/main/assignments/01_pytorch/pytorch.ipynb)
 
 
+#### Exercise 02 - CNNs and Classification
+
+Click on the following badge to open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/sgi-beveri-assignments-hs2022/blob/main/assignments/02_cnns_classification/cnns.ipynb)
+
+
+#### Exercise 03 - Object Detection
+
+Click on the following badge to open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/sgi-beveri-assignments-hs2022/blob/main/assignments/03_object_detection/object_detection.ipynb)
+
+#### Exercise 04 - Segmentation
+
+Click on the following badge to open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/sgi-beveri-assignments-hs2022/blob/main/assignments/04_segmentation/segmentation.ipynb)
+
 ### Jupyter-Hub
 
 We provide you with the online platform JHub at 
@@ -71,7 +90,7 @@ You can pull the image with an API token that allows for reading the container r
 
 ```
 # login to the FHNW GitLab docker registry first
-$ docker login cr.gitlab.fhnw.ch -u <username> -p GX6WX2p14yGr94td--PT
+$ docker login cr.gitlab.fhnw.ch -u <username> -p t6dzYJnu--rfaPSPYz-i
 
 # now pull the image
 $ docker pull cr.gitlab.fhnw.ch/ml/courses/bveri/bveri-hs2022-exercises:v20221208
